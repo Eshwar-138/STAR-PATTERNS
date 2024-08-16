@@ -5,6 +5,7 @@ for i in range(n):
         print("*",end=" ")
     print()
 print()
+
 for i in range(n,0,-1):
     for j in range(i):
         time.sleep(0.6)
